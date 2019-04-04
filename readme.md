@@ -1,0 +1,1 @@
+Smooth movements with Javascript
